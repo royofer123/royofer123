@@ -13,7 +13,7 @@ I'm a Computer Science & Data Science & ML student in my 3rd year, passionate ab
 ## 🚀 My Main Projects
 
 - 📚 [Swipe-N-Borrow](https://github.com/royofer123/Swipe-N-Borrow) - An Android app to streamline book borrowing and lending.
-- 🥅 [Bayesian-Network](https://github.com/royofer123/bayesianNetworks) - Implementation of Bayesian networks and various algorithms.
+- 🥅 [Bayesian-Network](https://github.com/royofer123/bayesianNetworks) - Implementation of Bayesian networks and BayesBall algorithms.
 - 🦈 [Computers-Network](https://github.com/royofer123/Computers_Network_Final_Project) - Traffic application for categorizing distinct messaging groups.
 
 ## 🛠️ Languages and Tools
