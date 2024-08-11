@@ -13,8 +13,9 @@ I'm a Computer Science & Data Science & ML student in my 3rd year, passionate ab
 ## 🚀 My Main Projects
 
 - 📚 [Swipe-N-Borrow](https://github.com/royofer123/Swipe-N-Borrow) - An Android app to streamline book borrowing and lending.
-- 🥅 [Bayesian-Network](https://github.com/royofer123/bayesianNetworks) - Implementation of Bayesian networks and BayesBall algorithms.
+- 🎮 [Rock-Paper-Scissors](https://github.com/royofer123/Rock-Paper-Scissors) - A CNN-based project for predicting hand gestures in the classic game of Rock-Paper-Scissors.
 - 🦈 [Computers-Network](https://github.com/royofer123/Computers_Network_Final_Project) - Traffic application for categorizing distinct messaging groups.
+- 🥅 [Bayesian-Network](https://github.com/royofer123/bayesianNetworks) - Implementation of Bayesian networks and BayesBall algorithms.
 
 ## 🛠️ Languages and Tools
 
@@ -30,7 +31,6 @@ I'm a Computer Science & Data Science & ML student in my 3rd year, passionate ab
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
