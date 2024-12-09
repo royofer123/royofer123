@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Data Science & ML student in my 3rd year, passionate about technology and innovation. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Computer Science & Data Science & ML graduate, passionate about technology and innovation. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## 🚀 My Main Projects
 
